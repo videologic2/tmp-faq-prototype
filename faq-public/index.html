@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Interne FAQ</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="page-header">
+        <div>
+          <p class="eyebrow">Interne kennisbank</p>
+          <h1>FAQ-database</h1>
+        </div>
+        <button class="primary-button" id="newFaqButton" type="button">Nieuwe FAQ</button>
+      </section>
+
+      <section class="toolbar">
+        <label class="field">
+          <span>Zoeken</span>
+          <input id="searchInput" type="search" placeholder="Zoek op vraag, antwoord of keyword">
+        </label>
+        <label class="field">
+          <span>Categorie</span>
+          <select id="categoryFilter">
+            <option value="">Alle categorieen</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="content-grid">
+        <div class="faq-list" id="faqList" aria-live="polite"></div>
+
+        <aside class="editor-panel">
+          <div class="panel-heading">
+            <h2 id="formTitle">Nieuwe FAQ</h2>
+            <button class="ghost-button hidden" id="cancelEditButton" type="button">Annuleren</button>
+          </div>
+
+          <form id="faqForm">
+            <input id="faqId" type="hidden">
+            <label class="field">
+              <span>Vraag</span>
+              <input id="questionInput" type="text" required>
+            </label>
+            <label class="field">
+              <span>Antwoord</span>
+              <textarea id="answerInput" rows="6" required></textarea>
+            </label>
+            <label class="field">
+              <span>Categorie</span>
+              <input id="categoryInput" type="text" list="categoryOptions" required>
+              <datalist id="categoryOptions"></datalist>
+            </label>
+            <label class="field">
+              <span>Keywords</span>
+              <input id="keywordsInput" type="text" placeholder="bijv. vitamine d, dosering, opname">
+            </label>
+            <button class="primary-button full-width" type="submit">Opslaan</button>
+            <p class="form-message" id="formMessage" role="status"></p>
+          </form>
+        </aside>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
