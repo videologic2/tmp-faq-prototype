@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Wanneer kan ik het beste vitamine D innemen?",
+    "answer": "Vitamine D kun je het beste innemen tijdens of vlak na een maaltijd die wat vet bevat. Dat helpt je lichaam bij de opname.",
+    "category": "Vitamines",
+    "keywords": ["vitamine d", "innemen", "opname"]
+  },
+  {
+    "id": 2,
+    "question": "Kan ik magnesium combineren met vitamine B12?",
+    "answer": "Ja, magnesium en vitamine B12 kunnen meestal samen worden gebruikt. Volg altijd de aanbevolen dosering op het etiket.",
+    "category": "Supplementen",
+    "keywords": ["magnesium", "b12", "combineren"]
+  },
+  {
+    "id": 3,
+    "question": "Hoe lang duurt het voordat supplementen effect hebben?",
+    "answer": "Dat verschilt per product en persoon. Sommige mensen merken binnen enkele dagen verschil, terwijl andere producten pas na enkele weken goed te beoordelen zijn.",
+    "category": "Gebruik",
+    "keywords": ["effect", "duur", "resultaat"]
+  },
+  {
+    "id": 4,
+    "question": "Wat moet ik doen als ik misselijk word na inname?",
+    "answer": "Neem het product bij voorkeur met voedsel in en stop tijdelijk als de klachten aanhouden. Neem contact op met een arts bij ernstige of aanhoudende klachten.",
+    "category": "Bijwerkingen",
+    "keywords": ["misselijk", "bijwerking", "maag"]
+  },
+  {
+    "id": 5,
+    "question": "Hoe snel wordt mijn bestelling geleverd?",
+    "answer": "Bestellingen worden meestal binnen 1 tot 3 werkdagen geleverd. Je ontvangt een verzendbevestiging zodra het pakket onderweg is.",
+    "category": "Levering",
+    "keywords": ["levering", "bestelling", "werkdagen"]
+  },
+  {
+    "id": 6,
+    "question": "Zijn de producten geschikt bij een glutenallergie?",
+    "answer": "Controleer altijd het etiket en de allergeneninformatie per product. Producten die glutenvrij zijn, worden als zodanig vermeld.",
+    "category": "Allergieën",
+    "keywords": ["gluten", "allergie", "glutenvrij"]
+  },
+  {
+    "id": 7,
+    "question": "Mag ik supplementen gebruiken tijdens de zwangerschap?",
+    "answer": "Gebruik tijdens zwangerschap alleen supplementen die daarvoor geschikt zijn en overleg bij twijfel met je verloskundige of arts.",
+    "category": "Zwangerschap",
+    "keywords": ["zwangerschap", "veilig", "overleg"]
+  },
+  {
+    "id": 8,
+    "question": "Wat is het verschil tussen vitamine C tabletten en capsules?",
+    "answer": "Het belangrijkste verschil is de vorm. De werkzame stof kan hetzelfde zijn, maar capsules zijn soms makkelijker door te slikken.",
+    "category": "Vitamines",
+    "keywords": ["vitamine c", "tabletten", "capsules"]
+  },
+  {
+    "id": 9,
+    "question": "Kan ik probiotica dagelijks gebruiken?",
+    "answer": "Probiotica kunnen vaak dagelijks worden gebruikt. Houd de aanbevolen dosering aan en kijk hoe je lichaam reageert.",
+    "category": "Supplementen",
+    "keywords": ["probiotica", "dagelijks", "darmflora"]
+  },
+  {
+    "id": 10,
+    "question": "Moet ik supplementen met water innemen?",
+    "answer": "Ja, neem supplementen bij voorkeur in met een glas water, tenzij het product anders vermeldt.",
+    "category": "Gebruik",
+    "keywords": ["water", "innemen", "dosering"]
+  },
+  {
+    "id": 11,
+    "question": "Kan een supplement hoofdpijn veroorzaken?",
+    "answer": "Sommige mensen kunnen gevoelig reageren op bepaalde ingrediënten. Stop met gebruik als je duidelijke klachten krijgt en vraag medisch advies als de hoofdpijn aanhoudt.",
+    "category": "Bijwerkingen",
+    "keywords": ["hoofdpijn", "klachten", "ingrediënten"]
+  },
+  {
+    "id": 12,
+    "question": "Kan ik mijn bezorgadres na bestelling wijzigen?",
+    "answer": "Neem zo snel mogelijk contact op met de klantenservice. Als de bestelling nog niet is verzonden, kan het adres vaak nog worden aangepast.",
+    "category": "Levering",
+    "keywords": ["bezorgadres", "wijzigen", "klantenservice"]
+  },
+  {
+    "id": 13,
+    "question": "Bevatten jullie producten lactose?",
+    "answer": "Dat verschilt per product. Raadpleeg de ingrediëntenlijst en allergeneninformatie op de productpagina of verpakking.",
+    "category": "Allergieën",
+    "keywords": ["lactose", "allergenen", "ingrediënten"]
+  },
+  {
+    "id": 14,
+    "question": "Is foliumzuur aan te raden bij een kinderwens?",
+    "answer": "Foliumzuur wordt vaak aangeraden rond een kinderwens en tijdens het begin van de zwangerschap. Overleg voor persoonlijk advies met een zorgprofessional.",
+    "category": "Zwangerschap",
+    "keywords": ["foliumzuur", "kinderwens", "zwangerschap"]
+  },
+  {
+    "id": 15,
+    "question": "Waarom zit er vitamine K in sommige vitamine D producten?",
+    "answer": "Vitamine K wordt soms gecombineerd met vitamine D omdat beide vitamines een rol spelen bij botgezondheid.",
+    "category": "Vitamines",
+    "keywords": ["vitamine k", "vitamine d", "botten"]
+  },
+  {
+    "id": 16,
+    "question": "Zijn plantaardige omega 3 supplementen beschikbaar?",
+    "answer": "Ja, er bestaan plantaardige omega 3 supplementen op basis van algenolie. Deze zijn vaak geschikt voor vegetariërs en veganisten.",
+    "category": "Supplementen",
+    "keywords": ["omega 3", "plantaardig", "algenolie"]
+  },
+  {
+    "id": 17,
+    "question": "Kan ik meerdere producten tegelijk starten?",
+    "answer": "Dat kan, maar het is overzichtelijker om nieuwe producten stapsgewijs te starten. Zo merk je beter waar je lichaam goed op reageert.",
+    "category": "Gebruik",
+    "keywords": ["tegelijk", "starten", "opbouwen"]
+  },
+  {
+    "id": 18,
+    "question": "Wat betekent een aanbevolen dagelijkse dosering?",
+    "answer": "De aanbevolen dagelijkse dosering geeft aan hoeveel je normaal gesproken per dag gebruikt. Overschrijd deze dosering niet zonder professioneel advies.",
+    "category": "Gebruik",
+    "keywords": ["dosering", "dagelijks", "advies"]
+  },
+  {
+    "id": 19,
+    "question": "Kan ik een product retourneren?",
+    "answer": "Ongeopende producten kunnen meestal binnen de retourtermijn worden teruggestuurd. Controleer de retourvoorwaarden voor de exacte regels.",
+    "category": "Levering",
+    "keywords": ["retour", "terugsturen", "voorwaarden"]
+  },
+  {
+    "id": 20,
+    "question": "Zijn supplementen een vervanging voor gezonde voeding?",
+    "answer": "Nee, supplementen zijn bedoeld als aanvulling en vervangen geen gevarieerde, gezonde voeding.",
+    "category": "Supplementen",
+    "keywords": ["voeding", "aanvulling", "gezond"]
+  }
+]
