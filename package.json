@@ -1,0 +1,18 @@
+{
+  "name": "tmp-faq-prototype",
+  "version": "1.0.0",
+  "description": "Interne FAQ-database prototype met JSON-opslag.",
+  "main": "faq-server.js",
+  "scripts": {
+    "start": "node faq-server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "faq",
+    "prototype",
+    "railway"
+  ],
+  "license": "MIT"
+}
